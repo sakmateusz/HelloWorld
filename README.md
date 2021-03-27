@@ -1,6 +1,6 @@
 # HelloWorld
 
-[headshot](GitHubPhoto1.JPG)
+![headshot](GitHubPhoto1.JPG)
 
 # Hello there
 I’m glad you decided to visit my page. I’d like to share with you some details so you’ll know what to expect over here.
